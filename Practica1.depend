@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1581794415 source:d:\desktop\primer semestre\edd\practica1\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<ListDouble.h>
+
+1581794078 source:d:\desktop\primer semestre\edd\practica1\src\nodolistd.cpp
+	"NodoListD.h"
+
+1581792696 d:\desktop\primer semestre\edd\practica1\include\nodolistd.h
+	<string>
+
+1581792728 source:d:\desktop\primer semestre\edd\practica1\src\listdouble.cpp
+	"ListDouble.h"
+
+1581794134 d:\desktop\primer semestre\edd\practica1\include\listdouble.h
+	<NodoListD.h>
+
